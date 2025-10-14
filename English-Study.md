@@ -4,6 +4,10 @@ date: 2025-04-13 02:56:50
 tags:
 ---
 
+## 简单句
+
+![image-20251014121259195](./English-Study/image-20251014121259195.png)
+
 ## be动词（is are）
 
 * is
@@ -111,3 +115,5 @@ tags:
 > 否定句-助动词后面+照妖镜原型:	I didn't go to the theatre last week.
 >
 > 一般疑问句-助动词提前:	Did you go to the theatre last week?
+
+## 
