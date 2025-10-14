@@ -116,4 +116,95 @@ tags:
 >
 > 一般疑问句-助动词提前:	Did you go to the theatre last week?
 
-## 
+# Fall in Love with English
+
+Hiding behind the loose dusty curtain, a teenager packed up his overcoat into the suitcase. He planned to leave home at dusk though there was thunder and lightning outdoors. He had got to do this because he was tired of his parents' nagging about his English study and did not want to go through it any longer. He couldn't get along well with English and disliked joining in English classes because he thought his teacher ignored him on purpose. As a result, his score in each exam never added up to over 60.
+
+His partner was concerned about him very much. She understood exactly what he was suffering from, but entirely disagreed with his idea. In order to calm him down and settle his problem, she talked with him face to face and swapped a series of learning tips with him. The items she set down helped him find the highway to studying English well.
+
+The teenager was grateful and got great power from his friend's words. Now, he has recovered from being upset and has fallen in love with English.
+
+---
+
+## 中文翻译
+
+![image-20251014165053944](./English-Study/image-20251014165053944.png)
+
+# 爱上英语
+
+有个少年躲在积满灰尘的松散窗帘后面，把大衣装进手提箱。尽管外面雷电交加，他还是计划在黄昏时分离家出走。他不得不这样做，因为他厌倦了父母对他英语学习的唠叨，不想再忍受下去了。他无法和英语相处融洽，不喜欢参加英语课，因为他认为老师故意忽视他。结果，他每次考试的分数合计从未超过60分。
+
+他的搭档非常关心他。她确切地理解他所遭受的痛苦，但完全不同意他的想法。为了让他冷静下来并解决他的问题，她和他面对面交谈，和他交换了一系列学习技巧。她写下的这些条目帮助他找到了学好英语的途径。
+
+这个少年很感激，从朋友的话中获得了巨大的力量。现在，他已经从沮丧中恢复过来，并且爱上了英语。
+
+---
+
+## 重点词汇与短语 (Key Vocabulary & Phrases)
+
+| 英文 | 中文 | 词性 |
+|------|------|------|
+| hide behind | 躲在...后面 | 短语 |
+| loose | 松散的 | 形容词 |
+| dusty | 积满灰尘的 | 形容词 |
+| curtain | 窗帘 | 名词 |
+| pack up | 打包 | 短语动词 |
+| overcoat | 大衣 | 名词 |
+| suitcase | 手提箱 | 名词 |
+| at dusk | 在黄昏时分 | 短语 |
+| thunder | 雷声 | 名词 |
+| lightning | 闪电 | 名词 |
+| outdoors | 在户外 | 副词 |
+| be tired of | 厌倦 | 短语 |
+| nagging | 唠叨 | 名词/动词 |
+| go through | 经历，忍受 | 短语动词 |
+| get along well with | 与...相处融洽 | 短语 |
+| join in | 参加 | 短语动词 |
+| on purpose | 故意地 | 短语 |
+| as a result | 结果 | 短语 |
+| add up to | 合计达到 | 短语 |
+| be concerned about | 关心 | 短语 |
+| exactly | 确切地 | 副词 |
+| suffer from | 遭受 | 短语 |
+| entirely | 完全地 | 副词 |
+| disagree with | 不同意 | 短语 |
+| calm down | 冷静下来 | 短语动词 |
+| settle | 解决 | 动词 |
+| face to face | 面对面 | 短语 |
+| swap | 交换 | 动词 |
+| a series of | 一系列 | 短语 |
+| tip | 技巧，窍门 | 名词 |
+| set down | 写下，记下 | 短语动词 |
+| highway | 公路，途径 | 名词 |
+| grateful | 感激的 | 形容词 |
+| power | 力量 | 名词 |
+| recover from | 从...中恢复 | 短语 |
+| upset | 沮丧的 | 形容词 |
+| fall in love with | 爱上 | 短语 |
+
+---
+
+## 语法要点 (Grammar Points)
+
+### 1. 过去完成时 (Past Perfect Tense)
+- **He had got to do this** - 表示过去某个时间之前已经完成的动作
+
+### 2. 原因状语从句 (Adverbial Clause of Reason)
+- **because he was tired of...** - 使用because引导原因
+
+### 3. 宾语从句 (Object Clause)
+- **he thought his teacher ignored him** - thought后接宾语从句
+
+### 4. 现在完成时 (Present Perfect Tense)
+- **he has recovered from...** - 表示过去的动作对现在的影响
+- **has fallen in love with** - 强调状态的持续
+
+---
+
+## 学习建议 (Study Tips)
+
+1. **词汇积累**：重点记忆文中的短语搭配，如"be tired of"、"get along with"等
+2. **情境记忆**：通过故事情节理解词汇的实际应用场景
+3. **朗读练习**：大声朗读全文，培养语感
+4. **复述训练**：尝试用自己的话复述故事内容
+5. **写作应用**：模仿文章结构，写一篇类似主题的短文
