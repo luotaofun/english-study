@@ -4,118 +4,6 @@ date: 2025-04-13 02:56:50
 tags:
 ---
 
-## 简单句
-
-![image-20251014121259195](./English-Study/image-20251014121259195.png)
-
-## be动词（is are）
-
-* is
-
-  > 第三人称单数：	He/She/It is here.
-  >
-  > 不可数名词：	Water is important.
-  >
-  > 集体名词强调整体：	The team is strong.
-  >
-  > 存在句单数：	There is a pen on the desk.
-
-* are
-
-  > I/You/We/They are friends.	You and I are good partners.
-  >
-  > 复数名词：The books are on the table.
-  >
-  > 集体名词强调成员：	The team are arguing.
-  >
-  > 存在句复数：	There are three pens on the desk.
-
-## be动词的过去式（was were）
-
-* was
-
-  > 第一人单数:	I was tired yesterday.
-  >
-  > 第三人称（he,she,it,单数名称）单数:	The cate was hungry.
-
-* were
-
-  > you 无论单双固定搭配were:	You were late.
-  >
-  > 虚拟语气，在表示假设、愿望或与事实相反的情况中无论主语是什么人称都were
-  >
-  > if 引导的非真实条件句：If I were you，I would study harder.
-  >
-  > wish表达愿望：I wish she were here.
-
-  
-
-## 时态
-
-### 1.一般过去时
-
-> 定义：
->
-> 1. 过去某时刻发生的动作或所处的状态
-> 2. 过去常常发生的动作
->
-> 结构：
->
-> 1. 主语 + was\were
-> 2. 主语 + V过去式
->
-> 标志词：昨天上个XX前，in+过去年份别忘记
->
-> ​	yesterday	the day before yesterday
->
-> ​	last week	last year	last month
->
-> ​	five days ago	two minutes ago
->
-> ​	in 1998
-
-- +ed
-
-  > looked	
-  >
-  > // live	lived 不发音的e结尾要去e+d			
-
-- 辅元辅结构并且音调重读：双写+ed
-
-  > plan	 planned	stop	stopped
-  >
-  > // open	opened  没有音调重读
-
-- 辅+y结尾：y变i + ed
-
-  > study	 studied
-  >
-  > // stay	stayed  没有满足辅音结构
-
-- 特殊变化
-
-  > go	went
-  >
-  > get	got
-  >
-  > say	 said
-  >
-  > come	came
-
-#### 1.1句型转换
-
-> I was a student ten years ago.
->
-> 否定句-be动词+not:	I wasn't a student ten years age.
->
-> 一般疑问句-be动词提前: 	Were you a student ten years ago?
->
-> I went to the theatre last week.
->
-> 否定句-助动词后面+照妖镜原型:	I didn't go to the theatre last week.
->
-> 一般疑问句-助动词提前:	Did you go to the theatre last week?
-
 # Fall in Love with English
 
 Hiding behind the loose dusty curtain, a teenager packed up his overcoat into the suitcase. He planned to leave home at dusk though there was thunder and lightning outdoors. He had got to do this because he was tired of his parents' nagging about his English study and did not want to go through it any longer. He couldn't get along well with English and disliked joining in English classes because he thought his teacher ignored him on purpose. As a result, his score in each exam never added up to over 60.
@@ -208,3 +96,255 @@ The teenager was grateful and got great power from his friend's words. Now, he h
 3. **朗读练习**：大声朗读全文，培养语感
 4. **复述训练**：尝试用自己的话复述故事内容
 5. **写作应用**：模仿文章结构，写一篇类似主题的短文
+
+
+## 简单句
+
+![image-20251014121259195](./English-Study/image-20251014121259195.png)
+
+## be动词（is are）
+
+* is
+
+  > 第三人称单数：	He/She/It is here.
+  >
+  > 不可数名词：	Water is important.
+  >
+  > 集体名词强调整体：	The team is strong.
+  >
+  > 存在句单数：	There is a pen on the desk.
+
+* are
+
+  > I/You/We/They are friends.	You and I are good partners.
+  >
+  > 复数名词：The books are on the table.
+  >
+  > 集体名词强调成员：	The team are arguing.
+  >
+  > 存在句复数：	There are three pens on the desk.
+
+## be动词的过去式（was were）
+
+* was
+
+  > 第一人单数:	I was tired yesterday.
+  >
+  > 第三人称（he,she,it,单数名称）单数:	The cate was hungry.
+
+* were
+
+  > you 无论单双固定搭配were:	You were late.
+  >
+  > 虚拟语气，在表示假设、愿望或与事实相反的情况中无论主语是什么人称都were
+  >
+  > if 引导的非真实条件句：If I were you，I would study harder.
+  >
+  > wish表达愿望：I wish she were here.
+
+  
+
+## 时态
+
+### 一般过去时
+
+> 定义：
+>
+> 1. 过去某时刻发生的动作或所处的状态
+> 2. 过去常常发生的动作
+>
+> 结构：
+>
+> 1. 主语 + was\were
+> 2. 主语 + V过去式
+>
+> 标志词：昨天上个XX前，in+过去年份别忘记
+>
+> ​	yesterday	the day before yesterday
+>
+> ​	last week	last year	last month
+>
+> ​	five days ago	two minutes ago
+>
+> ​	in 1998
+
+- +ed
+
+  > looked	
+  >
+  > // live	lived 不发音的e结尾要去e+d			
+
+- 辅元辅结构并且音调重读：双写+ed
+
+  > plan	 planned	stop	stopped
+  >
+  > // open	opened  没有音调重读
+
+- 辅+y结尾：y变i + ed
+
+  > study	 studied
+  >
+  > // stay	stayed  没有满足辅音结构
+
+- 特殊变化
+
+  > go	went
+  >
+  > get	got
+  >
+  > say	 said
+  >
+  > come	came
+
+#### 句型转换
+
+> I was a student ten years ago.
+>
+> 否定句-be动词+not:	I wasn't a student ten years age.
+>
+> 一般疑问句-be动词提前: 	Were you a student ten years ago?
+>
+> I went to the theatre last week.
+>
+> 否定句-助动词后面+照妖镜原型:	I didn't go to the theatre last week.
+>
+> 一般疑问句-助动词提前:	Did you go to the theatre last week?
+
+### 一般现在时
+
+> v原型do/第三人称单数does
+>
+> The earth moves around the sun.
+>
+> Peter doesn't play tennis at weekends.每个周末都不打网球（经常性的）
+
+### 一般将来时
+
+> will + v原型 （临时决定）
+>
+> am/is/are going to + v原型 （有计划的决定）
+>
+> 
+
+### 过去将来时
+
+> would + v原型
+>
+> was/were going to + v原型
+>
+> Tony finished his work，and then he would leave for London.
+>
+> Lily told her teacher she would hand in the homework the next day.
+
+### 过去/现在/将来进行时
+
+> be + doing 
+>
+> I was watching TV when you called me.
+
+### 现在完成时
+
+> have/has +done 过去分词
+>
+> 表示从现在往过去看的结果
+>
+> He has finished his homework.
+>
+> 他过去完成了他的作业。
+>
+> We have learned English since 1998.
+>
+> We have lived here since 1992.
+
+### 现在完成进行时 (Present Perfect Continuous Tense)
+
+> **定义：**
+>
+> 表示从过去某个时间开始，一直持续到现在，并且可能继续下去的动作。强调动作的持续性和未完成性。
+>
+> **结构：**
+>
+> have/has + been + doing (现在分词)
+>
+> - 主语 (I/You/We/They) + have been + doing
+> - 主语 (He/She/It) + has been + doing
+>
+> **标志词：**
+>
+> - since + 过去时间点 (since 1998, since last week, since 8 o'clock)
+> - for + 时间段 (for two hours, for three days, for a long time)
+> - all day/week/month/year (整天/整周/整月/整年)
+> - recently (最近)
+> - lately (近来)
+> - How long...? (多久了？)
+
+```mermaid
+graph TB
+    A[现在完成进行时<br/>Present Perfect Continuous] --> B[强调动作的持续性]
+    A --> C[动作可能还在继续]
+    A --> D[可能有明显结果]
+    
+    E[现在完成时<br/>Present Perfect] --> F[强调动作的完成]
+    E --> G[关注结果和影响]
+    E --> H[动作已经结束]
+    
+    style A fill:#e1f5ff
+    style E fill:#fff4e1
+    style B fill:#d4edda
+    style C fill:#d4edda
+    style D fill:#d4edda
+    style F fill:#f8d7da
+    style G fill:#f8d7da
+    style H fill:#f8d7da
+```
+
+| 时态 | 例句 | 中文 | 强调点 |
+|------|------|------|--------|
+| 现在完成进行时 | I **have been studying** English for 3 hours. | 我已经学了3小时英语了。 | 强调持续学习的过程，可能还在继续 |
+| 现在完成时 | I **have studied** English for 3 years. | 我已经学了3年英语了。 | 强调学习的经历和结果 |
+| 现在完成进行时 | She **has been waiting** for you since 8 o'clock. | 她从8点就一直在等你。 | 强调等待的持续性 |
+| 现在完成时 | She **has waited** for 2 hours. | 她已经等了2小时。 | 强调等待的时长 |
+
+- **现在完成进行时**：他从早上8点开始跑，现在10点了，他还在跑步机上，满头大汗。强调的是"一直在跑"这个持续的过程。
+  - He **has been running** for 2 hours. (他已经跑了2小时了)
+  
+- **现在完成时**：他跑完了，现在已经下来了，但你能看到他的汗水和疲惫。强调的是"跑完了"这个结果。
+  - He **has run** 10 kilometers. (他已经跑了10公里)
+
+### 过去完成时 (Past Perfect Tense)
+
+> **定义：**
+>
+> 表示在过去某个时间或动作之前已经完成的动作或状态。强调"过去的过去"。
+>
+> **结构：**
+>
+> had + done (过去分词)
+>
+> - 主语 + had + done (所有人称都用 had)
+>
+> **标志词：**
+>
+> - by + 过去时间 (by the end of last year, by then, by that time)
+> - before + 过去时间 (before 2010, before he came)
+> - when/after/until + 一般过去时
+> - already, yet, just, never, ever (用于过去完成时)
+
+```mermaid
+graph LR
+    A[过去完成时<br/>Past Perfect<br/>had done] -->|更早| B[一般过去时<br/>Simple Past<br/>did]
+    B -->|之后| C[现在<br/>Now]
+    
+    style A fill:#ffcccc
+    style B fill:#ffe6cc
+    style C fill:#ccffcc
+```
+
+| 时态 | 例句 | 中文 | 时间点 |
+|------|------|------|--------|
+| 过去完成时 | I **had finished** my homework when he came. | 当他来的时候，我已经完成作业了。 | 完成作业（更早）→ 他来了（过去） |
+| 一般过去时 | I **finished** my homework yesterday. | 我昨天完成了作业。 | 完成作业（过去）→ 现在 |
+| 过去完成时 | She **had left** before I arrived. | 在我到达之前她已经离开了。 | 她离开（更早）→ 我到达（过去） |
+| 一般过去时 | She **left** at 8 o'clock. | 她8点离开了。 | 离开（过去）→ 现在 |
+
+## 
