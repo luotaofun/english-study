@@ -347,4 +347,17 @@ graph LR
 | 过去完成时 | She **had left** before I arrived. | 在我到达之前她已经离开了。 | 她离开（更早）→ 我到达（过去） |
 | 一般过去时 | She **left** at 8 o'clock. | 她8点离开了。 | 离开（过去）→ 现在 |
 
-## 
+## 被动语态（be  + done）
+
+* The environment here is being changed.正在被改变
+
+* The environment here had been changed.过去已经被改变
+
+* The environment here can be changed.结合情态动词（+V原型）这里的环境是可以改变的
+
+* The project **has been running** for three months so far.
+
+  so far(到目前为止) + for(持续时间段)
+
+
+
