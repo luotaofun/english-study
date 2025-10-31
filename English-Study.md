@@ -689,4 +689,102 @@ graph LR
     style H8 fill:#FFE4E9,stroke:#E75480,stroke-width:1px
 ```
 
-## 
+---
+
+## 非谓语动词 (Non-finite Verbs)
+
+```mermaid
+graph TB
+    A["非谓语动词<br/>Non-finite Verbs<br/>━━━━━━━━━━━━━━━━<br/>不能单独作谓语的动词形式<br/>包括:不定式、动名词、分词"] --> B["不定式 Infinitive<br/>━━━━━━━━━━━━━━━━<br/>to + 动词原形"]
+    
+    A --> C["动名词 Gerund<br/>━━━━━━━━━━━━━━━━<br/>动词-ing形式<br/>具有名词性质"]
+    
+    A --> D["分词 Participle<br/>━━━━━━━━━━━━━━━━<br/>现在分词 -ing<br/>过去分词 -ed/不规则"]
+    
+    B --> B1["不定式的形式<br/>━━━━━━━━━━<br/>一般式: to do<br/>I want to go<br/>━━━━━━━━━━<br/>进行式: to be doing<br/>He seems to be sleeping<br/>━━━━━━━━━━<br/>完成式: to have done<br/>He seems to have left<br/>━━━━━━━━━━<br/>被动式: to be done<br/>The work needs to be finished<br/>━━━━━━━━━━<br/>📝 四种形式"]
+    
+    B --> B2["不定式的用法<br/>━━━━━━━━━━<br/>作主语:<br/>To learn English is important<br/>━━━━━━━━━━<br/>作宾语:<br/>I want to go home<br/>━━━━━━━━━━<br/>作表语:<br/>My job is to teach English<br/>━━━━━━━━━━<br/>作定语:<br/>I have something to do<br/>━━━━━━━━━━<br/>作状语:<br/>I came here to see you(目的)<br/>━━━━━━━━━━<br/>作宾补:<br/>I ask him to help me<br/>━━━━━━━━━━<br/>🎯 六大功能"]
+    
+    B --> B3["不定式的省略<br/>━━━━━━━━━━<br/>感官动词后省to:<br/>see/watch/hear/feel sb do<br/>I saw him leave<br/>━━━━━━━━━━<br/>使役动词后省to:<br/>make/let/have sb do<br/>Let me help you<br/>━━━━━━━━━━<br/>help后可省to:<br/>help sb (to) do<br/>━━━━━━━━━━<br/>并列不定式省to:<br/>I want to sing and dance<br/>━━━━━━━━━━<br/>✂️ 省略规则"]
+    
+    C --> C1["动名词的形式<br/>━━━━━━━━━━<br/>一般式: doing<br/>I enjoy reading<br/>━━━━━━━━━━<br/>完成式: having done<br/>He regrets having said that<br/>━━━━━━━━━━<br/>被动式: being done<br/>He dislikes being praised<br/>━━━━━━━━━━<br/>完成被动: having been done<br/>━━━━━━━━━━<br/>📝 四种形式"]
+    
+    C --> C2["动名词的用法<br/>━━━━━━━━━━<br/>作主语:<br/>Swimming is good exercise<br/>━━━━━━━━━━<br/>作宾语:<br/>I enjoy reading books(动宾)<br/>We can practice English by speaking it more often.(介宾只能用动名词形式)<br/>━━━━━━━━━━<br/>作表语:<br/>My hobby is collecting stamps<br/>My hobby is to collect stamps<br/>━━━━━━━━━━<br/>作定语:<br/>a swimming pool 游泳池<br/>a reading room 阅览室<br/>━━━━━━━━━━<br/>🎯 四大功能"]
+    
+    C --> C3["动名词 vs 不定式<br/>━━━━━━━━━━<br/>只接动名词的动词:<br/>enjoy, finish, mind, avoid<br/>suggest, practice, keep<br/>━━━━━━━━━━<br/>只接不定式的动词:<br/>want, hope, decide, plan<br/>agree, refuse, promise<br/>━━━━━━━━━━<br/>两者都可的动词:<br/>like, love, hate, start<br/>begin, continue<br/>━━━━━━━━━━<br/>意义不同的动词:<br/>remember to do 记得去做<br/>remember doing 记得做过<br/>━━━━━━━━━━<br/>⚖️ 用法对比"]
+    
+    D --> D1["现在分词 -ing<br/>━━━━━━━━━━<br/>表示主动/进行<br/>━━━━━━━━━━<br/>作定语:<br/>a sleeping baby 正在睡觉的婴儿<br/>a running man 正在跑步的人<br/>━━━━━━━━━━<br/>作表语:<br/>The story is interesting<br/>故事很有趣<br/>━━━━━━━━━━<br/>作宾补:<br/>I saw him crossing the street<br/>我看见他正在过马路<br/>━━━━━━━━━━<br/>作状语:<br/>Walking in the park, I met Tom<br/>在公园散步时,我遇见了Tom<br/>━━━━━━━━━━<br/>⚡ 主动进行"]
+    
+    D --> D2["过去分词 -ed<br/>━━━━━━━━━━<br/>表示被动/完成<br/>━━━━━━━━━━<br/>作定语:<br/>a broken window 破碎的窗户<br/>spoken English 英语口语<br/>━━━━━━━━━━<br/>作表语:<br/>I am interested in music<br/>我对音乐感兴趣<br/>━━━━━━━━━━<br/>作宾补:<br/>I heard my name called<br/>我听到有人叫我的名字<br/>━━━━━━━━━━<br/>作状语:<br/>Given more time, I can do better<br/>如果给更多时间,我能做得更好<br/>━━━━━━━━━━<br/>🔒 被动完成"]
+    
+    D --> D3["分词的区别<br/>━━━━━━━━━━<br/>-ing vs -ed 作定语:<br/>a developing country 发展中国家<br/>a developed country 发达国家<br/>━━━━━━━━━━<br/>-ing vs -ed 作表语:<br/>The book is interesting 书有趣<br/>I am interested 我感兴趣<br/>━━━━━━━━━━<br/>规律:<br/>-ing 令人...(主动)<br/>-ed 感到...(被动)<br/>━━━━━━━━━━<br/>常见词对:<br/>interesting/interested<br/>exciting/excited<br/>surprising/surprised<br/>boring/bored<br/>━━━━━━━━━━<br/>🔄 主被动对比"]
+    
+    style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
+    style B fill:#FFE66D,stroke:#D4A017,stroke-width:2px
+    style C fill:#A8DADC,stroke:#457B9D,stroke-width:2px
+    style D fill:#B8E0D2,stroke:#52B788,stroke-width:2px
+    
+    style B1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style B2 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style B3 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style C1 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C2 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C3 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style D1 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style D2 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style D3 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+```
+
+---
+
+### 句子分析示例:动名词与不定式作主语
+
+#### 1. Swimming is good exercise.
+#### 2. To swim is good exercise.
+#### 3. It is good exercise to swim.
+
+```mermaid
+graph TB
+    A["三个句子对比分析<br/>Comparison of Three Sentences<br/>━━━━━━━━━━━━━━━━<br/>都表达:游泳是很好的锻炼"] --> B["句子1: Swimming is good exercise<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> C["句子2: To swim is good exercise<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> D["句子3: It is good exercise to swim<br/>━━━━━━━━━━━━━━━━"]
+    
+    B --> B1["句子结构<br/>━━━━━━━━━━<br/>主语: Swimming<br/>动名词作主语<br/>━━━━━━━━━━<br/>系动词: is<br/>━━━━━━━━━━<br/>表语: good exercise<br/>名词短语<br/>━━━━━━━━━━<br/>🏊 动名词主语"]
+    
+    B --> B2["语法特点<br/>━━━━━━━━━━<br/>动名词作主语:<br/>强调一般性、习惯性动作<br/>━━━━━━━━━━<br/>更口语化、自然<br/>最常用的表达方式<br/>━━━━━━━━━━<br/>类似例句:<br/>Reading is important<br/>Smoking is harmful<br/>Learning English takes time<br/>━━━━━━━━━━<br/>💡 习惯表达"]
+    
+    C --> C1["句子结构<br/>━━━━━━━━━━<br/>主语: To swim<br/>不定式作主语<br/>━━━━━━━━━━<br/>系动词: is<br/>━━━━━━━━━━<br/>表语: good exercise<br/>名词短语<br/>━━━━━━━━━━<br/>🎯 不定式主语"]
+    
+    C --> C2["语法特点<br/>━━━━━━━━━━<br/>不定式作主语:<br/>强调具体的、一次性动作<br/>━━━━━━━━━━<br/>较正式、书面化<br/>现代英语中较少用<br/>━━━━━━━━━━<br/>类似例句:<br/>To learn is never too late<br/>To see is to believe<br/>━━━━━━━━━━<br/>📚 正式表达"]
+    
+    D --> D1["句子结构<br/>━━━━━━━━━━<br/>形式主语: It<br/>代替真正主语<br/>━━━━━━━━━━<br/>系动词: is<br/>━━━━━━━━━━<br/>表语: good exercise<br/>━━━━━━━━━━<br/>真正主语: to swim<br/>不定式短语<br/>━━━━━━━━━━<br/>🔄 形式主语"]
+    
+    D --> D2["语法特点<br/>━━━━━━━━━━<br/>It作形式主语:<br/>避免头重脚轻<br/>━━━━━━━━━━<br/>结构更平衡、清晰<br/>最推荐的不定式主语形式<br/>━━━━━━━━━━<br/>常用句型:<br/>It is + adj + to do<br/>It is important to study<br/>It is easy to make mistakes<br/>It is necessary to practice<br/>━━━━━━━━━━<br/>✨ 推荐用法"]
+    
+    A --> E["三者对比总结<br/>Summary<br/>━━━━━━━━━━━━━━━━"]
+    
+    E --> E1["使用频率<br/>━━━━━━━━━━<br/>最常用:<br/>Swimming is good exercise<br/>动名词作主语,口语化<br/>━━━━━━━━━━<br/>推荐用:<br/>It is good exercise to swim<br/>形式主语,结构平衡<br/>━━━━━━━━━━<br/>较少用:<br/>To swim is good exercise<br/>不定式直接作主语,正式<br/>━━━━━━━━━━<br/>📊 频率排序"]
+    
+    E --> E2["语义区别<br/>━━━━━━━━━━<br/>动名词(Swimming):<br/>强调活动本身<br/>一般性、习惯性<br/>━━━━━━━━━━<br/>不定式(To swim):<br/>强调目的、意图<br/>具体的、一次性的<br/>━━━━━━━━━━<br/>实际使用:<br/>两者意义差别很小<br/>可以互换使用<br/>━━━━━━━━━━<br/>🔍 细微差异"]
+    
+    E --> E3["使用建议<br/>━━━━━━━━━━<br/>口语/日常:<br/>用动名词作主语<br/>Swimming is fun<br/>━━━━━━━━━━<br/>书面/正式:<br/>用It作形式主语<br/>It is important to exercise<br/>━━━━━━━━━━<br/>避免使用:<br/>不定式直接作主语<br/>显得生硬、不自然<br/>━━━━━━━━━━<br/>💡 实用建议"]
+    
+    style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
+    style B fill:#FFE66D,stroke:#D4A017,stroke-width:2px
+    style C fill:#A8DADC,stroke:#457B9D,stroke-width:2px
+    style D fill:#B8E0D2,stroke:#52B788,stroke-width:2px
+    style E fill:#FFA07A,stroke:#F4A261,stroke-width:2px
+    
+    style B1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style B2 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style C1 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C2 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style D1 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style D2 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style E1 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style E2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style E3 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+```
+
