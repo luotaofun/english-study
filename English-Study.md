@@ -551,8 +551,6 @@ graph TB
 
 ## 形容词和副词 (Adjectives & Adverbs)
 
-### 总览图
-
 ```mermaid
 graph TB
     A["形容词和副词<br/>Adjectives & Adverbs<br/>━━━━━━━━━━━━━━━━<br/>修饰语,增强表达的精确性和生动性"] --> B["形容词 Adjectives<br/>━━━━━━━━━━━━━━━━<br/>修饰名词/代词<br/>描述性质、状态、特征<br/>━━━━━━━━━━━━━━━━<br/>位置:<br/>① 名词前 a beautiful girl<br/>② 系动词后 She is beautiful<br/>③ 宾补 make me happy<br/>━━━━━━━━━━━━━━━━<br/>🎨 描述事物的样子"]
@@ -574,6 +572,121 @@ graph TB
     style B2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
     style C1 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
     style C2 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+```
+
+---
+
+## 介词短语 (Prepositional Phrases)
+
+```mermaid
+graph LR
+    A["介词短语完整知识体系<br/>Prepositional Phrases System<br/>━━━━━━━━━━━━━━━━<br/>介词 + 名词/代词/动名词"] --> B["时间介词 Time<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> C["地点介词 Place<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> D["方式介词 Manner<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> E["句法功能 Functions<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> F["固定搭配 Fixed Phrases<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> G["易混淆 Confusing<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> H["其他常用介词<br/>Other Prepositions<br/>━━━━━━━━━━━━━━━━"]
+    
+    B --> B1["at 具体时刻<br/>━━━━━━━━━━<br/>at 8 o'clock 8点<br/>at noon 中午<br/>at night 晚上<br/>at midnight 午夜<br/>━━━━━━━━━━<br/>⏰ 精确时刻"]
+    
+    B --> B2["on 具体日期<br/>━━━━━━━━━━<br/>on Monday 周一<br/>on May 1st 5月1日<br/>on New Year's Day 元旦<br/>on Monday morning 周一早上<br/>━━━━━━━━━━<br/>📅 具体某天"]
+    
+    B --> B3["in 时间段<br/>━━━━━━━━━━<br/>in 2024 2024年<br/>in May 5月<br/>in spring 春天<br/>in the morning 早上<br/>in the 21st century 21世纪<br/>━━━━━━━━━━<br/>📆 较长时段"]
+    
+    C --> C1["at 小地点<br/>━━━━━━━━━━<br/>at home 在家<br/>at school 在学校<br/>at the station 在车站<br/>at the door 在门口<br/>━━━━━━━━━━<br/>🎯 具体点"]
+    
+    C --> C2["in 大地点/内部<br/>━━━━━━━━━━<br/>in China 在中国<br/>in Beijing 在北京<br/>in the room 在房间里<br/>in the box 在盒子里<br/>━━━━━━━━━━<br/>📦 内部空间"]
+    
+    C --> C3["on 表面<br/>━━━━━━━━━━<br/>on the table 在桌上<br/>on the wall 在墙上<br/>on the floor 在地板上<br/>on the street 在街上<br/>━━━━━━━━━━<br/>📄 表面接触"]
+    
+    D --> D1["by 方式<br/>━━━━━━━━━━<br/>by bus 乘公交<br/>by email 通过邮件<br/>by hand 手工<br/>━━━━━━━━━━<br/>🚌 交通方式"]
+    
+    D --> D2["with 工具/伴随<br/>━━━━━━━━━━<br/>with a pen 用笔<br/>with friends 和朋友<br/>with care 小心地<br/>━━━━━━━━━━<br/>✏️ 工具伴随"]
+    
+    D --> D3["in 语言/方式<br/>━━━━━━━━━━<br/>in English 用英语<br/>in this way 用这种方式<br/>in a loud voice 大声地<br/>━━━━━━━━━━<br/>🗣️ 语言方式"]
+    
+    E --> E1["作定语<br/>━━━━━━━━━━<br/>The book on the desk<br/>桌上的书<br/>The girl in red<br/>穿红衣服的女孩<br/>━━━━━━━━━━<br/>📖 修饰名词"]
+    
+    E --> E2["作状语<br/>━━━━━━━━━━<br/>arrived at 8 o'clock 时间<br/>lives in Beijing 地点<br/>went by bus 方式<br/>━━━━━━━━━━<br/>⚡ 修饰动词"]
+    
+    E --> E3["作表语<br/>━━━━━━━━━━<br/>He is at home<br/>他在家<br/>The meeting is at 3 pm<br/>会议在3点<br/>━━━━━━━━━━<br/>🎯 说明主语"]
+    
+    E --> E4["作宾补<br/>━━━━━━━━━━<br/>found him in the room<br/>发现他在房间里<br/>keep it out of reach<br/>放在够不到的地方<br/>━━━━━━━━━━<br/>💫 补充宾语"]
+    
+    F --> F1["be + adj + prep<br/>━━━━━━━━━━<br/>be good at 擅长<br/>be interested in 感兴趣<br/>be afraid of 害怕<br/>be proud of 自豪<br/>be famous for 著名<br/>━━━━━━━━━━<br/>🎨 形容词搭配"]
+    
+    F --> F2["verb + prep<br/>━━━━━━━━━━<br/>look at 看<br/>look for 寻找<br/>look after 照顾<br/>listen to 听<br/>wait for 等待<br/>━━━━━━━━━━<br/>⚡ 动词搭配"]
+    
+    F --> F3["介词 + doing<br/>━━━━━━━━━━<br/>be good at doing<br/>look forward to doing<br/>thank you for doing<br/>━━━━━━━━━━<br/>注意: to是介词!<br/>后接动名词-ing<br/>━━━━━━━━━━<br/>🔄 动词名词化"]
+    
+    F --> F4["固定表达<br/>━━━━━━━━━━<br/>in fact 事实上<br/>on time 准时<br/>in time 及时<br/>at least 至少<br/>by the way 顺便说<br/>for example 例如<br/>━━━━━━━━━━<br/>💡 常用短语"]
+    
+    G --> G1["in time vs on time<br/>━━━━━━━━━━<br/>in time 及时<br/>arrived in time for meeting<br/>━━━━━━━━━━<br/>on time 准时<br/>arrived on time<br/>━━━━━━━━━━<br/>⏰ 时间辨析"]
+    
+    G --> G2["in/on the tree<br/>━━━━━━━━━━<br/>in the tree 外来物<br/>The bird is in the tree<br/>━━━━━━━━━━<br/>on the tree 长在上面<br/>The apple is on the tree<br/>━━━━━━━━━━<br/>🌳 位置辨析"]
+    
+    G --> G3["at the end vs in the end<br/>━━━━━━━━━━<br/>at the end of 在...末尾<br/>at the end of the street<br/>━━━━━━━━━━<br/>in the end 最后,终于<br/>In the end, he succeeded<br/>━━━━━━━━━━<br/>🎯 含义辨析"]
+    
+    H --> H1["of 所属/关于<br/>━━━━━━━━━━<br/>所属关系:<br/>the door of the room 房间的门<br/>a friend of mine 我的一个朋友<br/>━━━━━━━━━━<br/>关于/涉及:<br/>the city of Beijing 北京市<br/>the problem of pollution 污染问题<br/>━━━━━━━━━━<br/>材料/内容:<br/>a cup of tea 一杯茶<br/>a piece of paper 一张纸<br/>━━━━━━━━━━<br/>📋 从属关系"]
+    
+    H --> H2["for 目的/原因<br/>━━━━━━━━━━<br/>目的:<br/>study for the exam 为考试学习<br/>leave for Beijing 动身去北京<br/>━━━━━━━━━━<br/>原因:<br/>famous for 因...而著名<br/>thank you for 感谢你...<br/>━━━━━━━━━━<br/>对象/给予:<br/>a gift for you 给你的礼物<br/>work for a company 为公司工作<br/>━━━━━━━━━━<br/>时间段:<br/>for 3 hours 持续3小时<br/>for a long time 很长时间<br/>━━━━━━━━━━<br/>🎯 目的原因"]
+    
+    H --> H3["to 方向/对象<br/>━━━━━━━━━━<br/>方向:<br/>go to school 去学校<br/>from...to 从...到...<br/>━━━━━━━━━━<br/>对象/给予:<br/>give it to me 给我<br/>talk to him 和他说话<br/>━━━━━━━━━━<br/>比较:<br/>prefer A to B 比起B更喜欢A<br/>━━━━━━━━━━<br/>附属:<br/>the key to the door 门的钥匙<br/>the answer to the question 问题的答案<br/>━━━━━━━━━━<br/>➡️ 方向指向"]
+    
+    H --> H4["from 来源/起点<br/>━━━━━━━━━━<br/>来源:<br/>a letter from Tom 来自Tom的信<br/>learn from mistakes 从错误中学习<br/>━━━━━━━━━━<br/>起点:<br/>from Monday to Friday 从周一到周五<br/>from 9 to 5 从9点到5点<br/>━━━━━━━━━━<br/>区别:<br/>different from 与...不同<br/>far from 远离<br/>━━━━━━━━━━<br/>材料:<br/>made from 由...制成(看不出原料)<br/>━━━━━━━━━━<br/>⬅️ 起源来源"]
+    
+    H --> H5["about/around 关于<br/>━━━━━━━━━━<br/>about 关于:<br/>talk about 谈论<br/>a book about history 关于历史的书<br/>What about...? ...怎么样?<br/>━━━━━━━━━━<br/>about 大约:<br/>about 10 people 大约10人<br/>at about 3 pm 大约下午3点<br/>━━━━━━━━━━<br/>around 周围:<br/>around the world 世界各地<br/>look around 四处看看<br/>━━━━━━━━━━<br/>around 大约:<br/>around 100 dollars 大约100美元<br/>━━━━━━━━━━<br/>💬 关于周围"]
+    
+    H --> H6["through/across 穿过<br/>━━━━━━━━━━<br/>through 穿过(内部):<br/>walk through the forest 穿过森林<br/>go through the tunnel 穿过隧道<br/>━━━━━━━━━━<br/>through 通过/凭借:<br/>through hard work 通过努力<br/>learn through practice 通过实践学习<br/>━━━━━━━━━━<br/>across 横穿(表面):<br/>walk across the street 穿过街道<br/>swim across the river 游过河<br/>━━━━━━━━━━<br/>across 遍及:<br/>across the country 全国各地<br/>━━━━━━━━━━<br/>🚶 穿越通过"]
+    
+    H --> H7["between/among 之间<br/>━━━━━━━━━━<br/>between 两者之间:<br/>between A and B 在A和B之间<br/>between 9 and 10 在9点到10点之间<br/>the difference between 两者的区别<br/>━━━━━━━━━━<br/>among 三者及以上:<br/>among the students 在学生们中间<br/>popular among young people<br/>在年轻人中很受欢迎<br/>━━━━━━━━━━<br/>👥 之间关系"]
+    
+    H --> H8["without/except 除了<br/>━━━━━━━━━━<br/>without 没有:<br/>without water 没有水<br/>without doubt 毫无疑问<br/>can't live without 离不开<br/>━━━━━━━━━━<br/>except 除了(排除):<br/>everyone except me 除了我之外的所有人<br/>except for 除了...之外<br/>━━━━━━━━━━<br/>besides 除了(包括):<br/>besides English 除了英语(还有其他)<br/>━━━━━━━━━━<br/>🚫 排除包含"]
+    
+    style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
+    style B fill:#FFE66D,stroke:#D4A017,stroke-width:2px
+    style C fill:#A8DADC,stroke:#457B9D,stroke-width:2px
+    style D fill:#B8E0D2,stroke:#52B788,stroke-width:2px
+    style E fill:#FFA07A,stroke:#F4A261,stroke-width:2px
+    style F fill:#D4A5A5,stroke:#BC6C25,stroke-width:2px
+    style G fill:#9FA8DA,stroke:#5E60CE,stroke-width:2px
+    style H fill:#FFB6C1,stroke:#E75480,stroke-width:2px
+    
+    style B1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style B2 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style B3 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style C1 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C2 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C3 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style D1 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style D2 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style D3 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style E1 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style E2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style E3 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style E4 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style F1 fill:#F5E6D3,stroke:#BC6C25,stroke-width:1px
+    style F2 fill:#F5E6D3,stroke:#BC6C25,stroke-width:1px
+    style F3 fill:#F5E6D3,stroke:#BC6C25,stroke-width:1px
+    style F4 fill:#F5E6D3,stroke:#BC6C25,stroke-width:1px
+    style G1 fill:#E8E4F3,stroke:#5E60CE,stroke-width:1px
+    style G2 fill:#E8E4F3,stroke:#5E60CE,stroke-width:1px
+    style G3 fill:#E8E4F3,stroke:#5E60CE,stroke-width:1px
+    style H1 fill:#FFE4E9,stroke:#E75480,stroke-width:1px
+    style H2 fill:#FFE4E9,stroke:#E75480,stroke-width:1px
+    style H3 fill:#FFE4E9,stroke:#E75480,stroke-width:1px
+    style H4 fill:#FFE4E9,stroke:#E75480,stroke-width:1px
+    style H5 fill:#FFE4E9,stroke:#E75480,stroke-width:1px
+    style H6 fill:#FFE4E9,stroke:#E75480,stroke-width:1px
+    style H7 fill:#FFE4E9,stroke:#E75480,stroke-width:1px
+    style H8 fill:#FFE4E9,stroke:#E75480,stroke-width:1px
 ```
 
 ## 
