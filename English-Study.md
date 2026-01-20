@@ -788,3 +788,36 @@ graph TB
     style E3 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
 ```
 
+## 并列句
+
+1. `... and ...`（表顺承）
+2. `both ... and ...`（表两者都）
+3. `not only ... but ... as well`（表不仅…… 而且）
+4. `not only ... but also ...`（表不仅…… 而且，是更常用的结构）
+5. `... yet ...`：表转折，语气比 “but” 更弱，常体现轻微的让步或意外
+6. `either ... or ...` 更强调 “明确的二选一”（直接限定两个选项）
+7. `neither ... nor ...`：否定两个选项，表 “两者都不”
+8. `for`：侧重**补充解释原因**，语气较弱，只能放在两个简单句之间（不能单独开头）；
+9. `so`：侧重**引出结果**，需注意它与`because`存在语义重复，不能同时使用（如不能说 “Because it rained, so we stayed”）
+
+
+
+## 名词性从句-宾语从句
+
+* 主句：`I promise`（主语 I + 谓语 promise）
+
+  宾语从句：`(that) I will help you`（从句作 promise 的宾语）在动词后的宾语从句中，`that`是常见引导词，作用是连接主句与从句，本身无实际语义，在口语或非正式语境中可省略，但书面语中常保留。
+
+* 主句：`You never told me`（主语 You + 谓语 told + 间接宾语 me）
+
+  宾语从句：`what you had done to my computer`（作 told 的直接宾语），`what`连接主句与宾语从句，且在从句中作谓语动词done
+
+  的宾语（对应中文 “做了什么” 里的 “什么”）。
+
+* 主句：`They don't know`（主语 They + 谓语 don't know）
+
+  宾语从句：`whether/if they will finish the work on time`（作 know 的宾语）
+
+* 主句：`I wander`
+
+  宾语从句：`when we will set out`
