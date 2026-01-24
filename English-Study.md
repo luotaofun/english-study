@@ -864,7 +864,15 @@ graph TB
     style D2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
 ```
 
+## 名词性从句-同位语从句
 
+```mermaid
+graph TB
+    A["名词性从句-同位语从句<br/>Noun Clause - Appositive Clause<br/>━━━━━━━━━━━━━━━━<br/>The news <b>that our team won</b> made us happy.<br/><b>我们队赢了</b>这个消息让我们很高兴。<br/>━━━━━━━━━━━━━━━━<br/>同位语是用来解释说明抽象名词的，所以要跟在需要解释的抽象名词（比如news、evidence）后。"]
+    style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
+```
+
+## 定语从句
 
 
 
