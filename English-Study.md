@@ -790,34 +790,85 @@ graph TB
 
 ## 并列句
 
-1. `... and ...`（表顺承）
-2. `both ... and ...`（表两者都）
-3. `not only ... but ... as well`（表不仅…… 而且）
-4. `not only ... but also ...`（表不仅…… 而且，是更常用的结构）
-5. `... yet ...`：表转折，语气比 “but” 更弱，常体现轻微的让步或意外
-6. `either ... or ...` 更强调 “明确的二选一”（直接限定两个选项）
-7. `neither ... nor ...`：否定两个选项，表 “两者都不”
-8. `for`：侧重**补充解释原因**，语气较弱，只能放在两个简单句之间（不能单独开头）；
-9. `so`：侧重**引出结果**，需注意它与`because`存在语义重复，不能同时使用（如不能说 “Because it rained, so we stayed”）
-
-
+| 连词 (Conjunction)             | 含义 (Meaning)   | 说明 (Notes)                                         |
+| :----------------------------- | :--------------- | :--------------------------------------------------- |
+| `... and ...`                  | 表顺承           |                                                      |
+| `both ... and ...`             | 表两者都         |                                                      |
+| `not only ... but ... as well` | 表不仅…… 而且    |                                                      |
+| `not only ... but also ...`    | 表不仅…… 而且    | 更常用的结构                                         |
+| `... yet ...`                  | 表转折           | 语气比 “but” 更弱，常体现轻微的让步或意外            |
+| `either ... or ...`            | 明确的二选一     | 直接限定两个选项                                     |
+| `neither ... nor ...`          | 两者都不         | 否定两个选项                                         |
+| `for`                          | 补充解释原因     | 语气较弱，只能放在两个简单句之间（不能单独开头）     |
+| `so`                           | 引出结果         | 与 `because` 存在语义重复，不能同时使用              |
 
 ## 名词性从句-宾语从句
 
-* 主句：`I promise`（主语 I + 谓语 promise）
+```mermaid
+graph TB
+    A["名词性从句-宾语从句<br/>Noun Clause - Object Clause<br/>━━━━━━━━━━━━━━━━<br/>I know <b>what you mean</b>.<br/>我明白<b>你的意思</b>。<br/>━━━━━━━━━━━━━━━━<br/>宾语从句在句子中充当宾语的角色"] --> B["位置与功能<br/>Position & Function"]
+    A --> C["构成 (引导词)<br/>Composition (Conjunctions)"]
+    A --> D["关键点<br/>Key Points"]
 
-  宾语从句：`(that) I will help you`（从句作 promise 的宾语）在动词后的宾语从句中，`that`是常见引导词，作用是连接主句与从句，本身无实际语义，在口语或非正式语境中可省略，但书面语中常保留。
+    B --> B1["作及物动词的宾语<br/>Object of a Transitive Verb<br/>━━━━━━━━━━<br>位置: 及物动词之后<br/>Position: After a transitive verb<br/>━━━━━━━━━━<br>🎯 I promise <b>that I will help you</b>.<br>我保证<b>我会帮你</b>。"]
+    B --> B2["作介词的宾语<br/>Object of a Preposition<br/>━━━━━━━━━━<br>位置: 介词之后<br/>Position: After a preposition<br/>━━━━━━━━━━<br>🤔 I am interested in <b>what he said</b>.<br>我对<b>他说的话</b>很感兴趣。"]
 
-* 主句：`You never told me`（主语 You + 谓语 told + 间接宾语 me）
+    C --> C1["that (无实际意义)<br/>━━━━━━━━━━<br>功能: 仅起连接作用<br/>Function: Connection only<br/>━━━━━━━━━━<br>🔗 I believe <b>that you are right</b>.<br>我相信<b>你是对的</b>。"]
+    C --> C2["whether / if (是否)<br/>━━━━━━━━━━<br>功能: 引入一般疑问<br/>Function: Introduce yes/no questions<br/>━━━━━━━━━━<br>❓ I doubt <b>if he will come</b>.<br>我怀疑<b>他是否会来</b>。"]
+    C --> C3["疑问代词<br/>Interrogative Pronouns<br/>(who, what, which...)<br/>━━━━━━━━━━<br>功能: 引导从句并在句中充当成分<br/>Function: Introduce & act as a component<br/>━━━━━━━━━━<br>👤 I can't figure out <b>what I should do</b>.<br>我弄不明白<b>我该做什么</b>。"]
+    C --> C4["疑问副词<br/>Interrogative Adverbs<br/>(when, where, why, how...)<br/>━━━━━━━━━━<br>功能: 引导从句并在句中作状语<br/>Function: Introduce & act as an adverbial<br/>━━━━━━━━━━<br>🗺️ Can you tell me <b>where you live</b>?<br>你能告诉我<b>你住在哪里</b>吗？"]
 
-  宾语从句：`what you had done to my computer`（作 told 的直接宾语），`what`连接主句与宾语从句，且在从句中作谓语动词done
+    D --> D1["语序: 必须是陈述语序<br/>Word Order: Must be statement order<br/>━━━━━━━━━━<br>结构: 主语 + 谓语<br/>Structure: Subject + Predicate<br/>━━━━━━━━━━<br>✓ I know <b>what his name is</b>.<br>✗ I know <b>what is his name</b>. ❌"]
+    D --> D2["that 的省略<br/>Omission of 'that'<br/>━━━━━━━━━━<br>规则: 引导动词后的宾语从句时常省略<br/>Rule: Often omitted after a verb<br/>━━━━━━━━━━<br>💬 He said <b>(that) he was busy</b>."]
 
-  的宾语（对应中文 “做了什么” 里的 “什么”）。
+    style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
+    style B fill:#FFE66D,stroke:#D4A017,stroke-width:2px
+    style C fill:#A8DADC,stroke:#457B9D,stroke-width:2px
+    style D fill:#F3A0A0,stroke:#E63946,stroke-width:2px
+    style B1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style B2 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style C1 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C2 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C3 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C4 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style D1 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style D2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+```
 
-* 主句：`They don't know`（主语 They + 谓语 don't know）
+## 名词性从句-主语从句
 
-  宾语从句：`whether/if they will finish the work on time`（作 know 的宾语）
+```mermaid
+graph TB
+    A["名词性从句-主语从句<br/>Noun Clause - Subject Clause<br/>━━━━━━━━━━━━━━━━<br/><b>What he said</b> is true.<br/><b>他说的话</b>是真的。<br/>━━━━━━━━━━━━━━━━<br/>主语从句在句子中充当主语的角色"] --> B["定义与功能<br/>Definition & Function"] 
+    A --> C["构成 (引导词)<br/>Composition (Conjunctions)"]
+    A --> D["句型结构<br/>Sentence Patterns"]
 
-* 主句：`I wander`
+    B --> B1["定义 Definition<br/>━━━━━━━━━━<br>在复合句中充当主语<br/>Acts as the subject in a sentence<br/>━━━━━━━━━━<br>回答'什么'的问题<br/>Answers the question 'what?'<br/>━━━━━━━━━━<br>🤔 <b>What</b> is true? → <b>What he said</b>."]
 
-  宾语从句：`when we will set out`
+    C --> C1["从属连词<br/>Subordinating Conjunctions<br/>━━━━━━━━━━<br>that (无实际意义)<br/>whether (是否)<br/>━━━━━━━━━━<br>🔗 <b>That the earth is round</b> is a fact.<br><b>地球是圆的</b>这件事是个事实。"]
+    C --> C2["疑问代词<br/>Interrogative Pronouns<br/>━━━━━━━━━━<br>who, what, which, whose<br/>━━━━━━━━━━<br>👤 <b>Who will be the next leader</b> is uncertain.<br><b>谁会成为下一任领导</b>还不确定。"]
+    C --> C3["疑问副词<br/>Interrogative Adverbs<br/>━━━━━━━━━━<br>when, where, how, why<br/>━━━━━━━━━━<br>🗺️ <b>Where she lives</b> is a mystery.<br><b>她住在哪里</b>是个谜。"]
+
+    D --> D1["直接作主语<br/>Direct Subject<br/>━━━━━━━━━━<br>结构: 引导词 + 句子 + 谓语...<br/>Structure: Conjunction + Clause + Predicate...<br/>━━━━━━━━━━<br>特点: 主语部分较长，有时显得头重脚轻<br/>Feature: Long subject, can be 'top-heavy'<br/>━━━━━━━━━━<br>⚖️ <b>That he will come</b> is certain.<br><b>他会来</b>是确定的。"]
+    D --> D2["形式主语 It<br/>Formal Subject 'It'<br/>━━━━━━━━━━<br>结构: It + be + adj./n./p.p. + that...<br/>Structure: It + be + adj./n./p.p. + that...<br/>━━━━━━━━━━<br>目的: 避免头重脚轻，使句子平衡<br/>Purpose: Avoids a 'top-heavy' sentence<br/>━━━━━━━━━━<br>💡 <b>It</b> is certain <b>that he will come</b>.<br><b>他会来</b>是确定的。<br/>━━━━━━━━━━<br><b>被动语态用法 (Passive Voice Usage)主句从句结合被动语态可以突出客观的想法看法（直接说这件事被怎么样认为和看待，而不是直接某人怎么样这种太主观）</b><br/>结构: It is + 过去分词(done) + that...<br>功能: 强调客观事实或普遍观点<br/>Function: Emphasize objective facts<br/>━━━━━━━━━━<br>✍️ <b>it is admitted that the internet has changed the world.<br/>洋气点：It is universally acknowledged that the world has been changed by the internet.</b><br><b>人们普遍认为...（这件事被人们）普遍承认世界被互联网改变了。</b>"]
+
+    style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
+    style B fill:#FFE66D,stroke:#D4A017,stroke-width:2px
+    style C fill:#A8DADC,stroke:#457B9D,stroke-width:2px
+    style D fill:#F3A0A0,stroke:#E63946,stroke-width:2px
+    style B1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style C1 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C2 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C3 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style D1 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style D2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+```
+
+
+
+
+
+
+
+
+
