@@ -8,40 +8,55 @@ tags:
 
 ```mermaid
 graph TB
-    A["完整句子分析<br/>Complete Sentence Analysis<br/>━━━━━━━━━━━━━━━━<br/>You must be open to experiencing negative emotions.<br/>你必须敞开心扉去体验消极情绪。"] --> B["句子成分<br/>Sentence Components<br/>━━━━━━━━━━━━━━━━"]
+    A["完整句子分析<br/>Complete Sentence Analysis<br/>━━━━━━━━━━━━━━━━<br/>Happiness is the ultimate goal because it is self - evidently good.<br/>幸福是终极目标，因为它显然是美好的。"] --> B["句子成分<br/>Sentence Components<br/>━━━━━━━━━━━━━━━━"]
     
     A --> C["核心语法点<br/>Key Grammar Points<br/>━━━━━━━━━━━━━━━━"]
     
-    B --> B1["主语 Subject<br/>━━━━━━━━━━<br/>You 你<br/>第二人称代词<br/>Second Person Pronoun<br/>━━━━━━━━━━<br/>👤 指代听话人"]
+    A --> D["生词解析<br/>New Word Analysis<br/>━━━━━━━━━━━━━━━━"]
     
-    B --> B2["情态动词 Modal Verb<br/>━━━━━━━━━━<br/>must 必须<br/>主观必须 ★★★★★<br/>Subjective Obligation<br/>━━━━━━━━━━<br/>💭 内心驱使的必要性"]
+    B --> B1["主语 Subject<br/>━━━━━━━━━━<br/>Happiness 幸福<br/>名词作主语<br/>Noun as Subject<br/>━━━━━━━━━━<br/>🎯 代表一种抽象概念，作为句子描述的主体"]
     
-    B --> B3["系动词 Linking Verb<br/>━━━━━━━━━━<br/>be 是/处于<br/>must + be (动词原形)<br/>情态动词后接原形<br/>━━━━━━━━━━<br/>🔗 连接主语和表语"]
+    B --> B2["系动词 Linking Verb<br/>━━━━━━━━━━<br/>is 是<br/>一般现在时第三人称单数形式<br/>Present Simple Tense, 3rd Person Singular<br/>━━━━━━━━━━<br/>🔗 连接主语和表语，表明主语的属性或状态"]
     
-    B --> B4["表语 Predicative<br/>━━━━━━━━━━<br/>open 开放的/敞开的<br/>形容词作表语<br/>Adjective as Predicative<br/>━━━━━━━━━━<br/>🚪 描述主语状态"]
+    B --> B3["表语 Predicative<br/>━━━━━━━━━━<br/>the ultimate goal 终极目标<br/>名词短语作表语<br/>Noun Phrase as Predicative<br/>━━━━━━━━━━<br/>🎯 描述主语“幸福”的性质，即它是终极目标"]
     
-    B --> B5["介词短语<br/>Prepositional Phrase<br/>━━━━━━━━━━<br/>to experiencing negative emotions<br/>对于体验消极情绪<br/>━━━━━━━━━━<br/>😔 接受负面情绪"]
+    B --> B4["原因状语从句<br/>Adverbial Clause of Reason<br/>━━━━━━━━━━<br/>because it is self - evidently good<br/>因为它显然是美好的<br/>━━━━━━━━━━<br/>💡 说明“幸福是终极目标”的原因"]
     
-    C --> C1["情态动词 must<br/>━━━━━━━━━━<br/>结构: must + 动词原形<br/>Structure: must + base verb<br/>━━━━━━━━━━<br/>含义: 主观必须<br/>Meaning: subjective obligation<br/>━━━━━━━━━━<br/>对比: must主观 vs have to客观<br/>━━━━━━━━━━<br/>📌 You must be honest"]
+    B4 --> B41["引导词 Subordinating Conjunction<br/>━━━━━━━━━━<br/>because 因为<br/>引导原因状语从句<br/>Introduce Adverbial Clause of Reason<br/>━━━━━━━━━━<br/>🔗 连接主句和从句，表明因果关系"]
     
-    C --> C2["be open to 固定搭配<br/>━━━━━━━━━━<br/>结构: be open to + 名词/动名词<br/>Structure: be open to + n./v-ing<br/>━━━━━━━━━━<br/>含义: 对...持开放态度<br/>Meaning: be receptive to<br/>━━━━━━━━━━<br/>to: 介词(不是不定式)<br/>━━━━━━━━━━<br/>例句: be open to suggestions<br/>be open to change<br/>━━━━━━━━━━<br/>💡 心态开放的表达"]
+    B4 --> B42["从句主语 Subject of the Clause<br/>━━━━━━━━━━<br/>it 它<br/>代词，指代“happiness”<br/>Pronoun, referring to “happiness”<br/>━━━━━━━━━━<br/>👤 避免重复使用“happiness”"]
     
-    C --> C3["动名词 Gerund<br/>━━━━━━━━━━<br/>形式: verb + -ing<br/>Form: experiencing<br/>━━━━━━━━━━<br/>功能: 名词性<br/>Function: nominal<br/>━━━━━━━━━━<br/>位置: 介词to后<br/>Position: after preposition<br/>━━━━━━━━━━<br/>为什么用-ing?<br/>介词后必须接名词或动名词<br/>━━━━━━━━━━<br/>✓ to experiencing 介词+动名词<br/>✗ to experience 介词+动词原形❌<br/>━━━━━━━━━━<br/>🔄 动词的名词化"]
+    B4 --> B43["从句系动词 Linking Verb of the Clause<br/>━━━━━━━━━━<br/>is 是<br/>一般现在时第三人称单数形式<br/>Present Simple Tense, 3rd Person Singular<br/>━━━━━━━━━━<br/>🔗 连接从句主语和表语"]
     
-    C --> C4["系表结构<br/>Linking Verb Structure<br/>━━━━━━━━━━<br/>结构: 主语 + be + 形容词<br/>Structure: S + be + Adj<br/>━━━━━━━━━━<br/>功能: 描述主语状态<br/>Function: describe state<br/>━━━━━━━━━━<br/>本句: You must be open<br/>你必须是开放的<br/>━━━━━━━━━━<br/>类似结构:<br/>You must be careful 小心<br/>You must be patient 耐心<br/>You must be ready 准备好<br/>━━━━━━━━━━<br/>🎯 状态描述"]
+    B4 --> B44["从句表语 Predicative of the Clause<br/>━━━━━━━━━━<br/>self - evidently good 显然是美好的<br/>副词修饰形容词作表语<br/>Adverb modifying Adjective as Predicative<br/>━━━━━━━━━━<br/>🎯 描述从句主语“it”（即幸福）的状态"]
+    
+    C --> C1["系表结构<br/>Linking Verb Structure<br/>━━━━━━━━━━<br/>结构: 主语 + be + 名词/形容词<br/>Structure: S + be + N./Adj<br/>━━━━━━━━━━<br/>功能: 描述主语的性质、状态或身份<br/>Function: describe the nature, state or identity of the subject<br/>━━━━━━━━━━<br/>本句: Happiness is the ultimate goal<br/>幸福是终极目标<br/>━━━━━━━━━━<br/>类似结构: He is a student<br/>She is happy<br/>━━━━━━━━━━<br/>🎯 常见的句子结构，用于说明主体的情况"]
+    
+    C --> C2["原因状语从句<br/>Adverbial Clause of Reason<br/>━━━━━━━━━━<br/>结构: because + 完整句子<br/>Structure: because + complete sentence<br/>━━━━━━━━━━<br/>功能: 说明主句动作或状态发生的原因<br/>Function: explain the reason for the action or state in the main clause<br/>━━━━━━━━━━<br/>本句: because it is self - evidently good<br/>因为它显然是美好的<br/>━━━━━━━━━━<br/>💡 使句子逻辑更完整，阐述了幸福为何是终极目标"]
+    
+    C --> C3["一般现在时<br/>Present Simple Tense<br/>━━━━━━━━━━<br/>结构: 主语 + 动词原形/动词第三人称单数形式<br/>Structure: S + base verb / verb (3rd person singular form)<br/>━━━━━━━━━━<br/>功能: 表示经常发生的动作、存在的状态或客观事实<br/>Function: express habitual actions, states or objective facts<br/>━━━━━━━━━━<br/>本句: is, is<br/>━━━━━━━━━━<br/>💡 描述现在的状态，幸福现在是终极目标，它现在显然是美好的，是一种客观陈述"]
+    
+    D --> D1["ultimate<br/>终极的；最终的<br/>adj. final; last<br/>━━━━━━━━━━<br/>在句中修饰“goal”，表示最终的目标，就像长跑比赛的终点🏁"]
+    
+    D --> D2["self - evidently<br/>明显地；不言而喻地<br/>adv. obviously; clearly<br/>━━━━━━━━━━<br/>修饰形容词“good”，说明幸福的美好是显而易见的，无需过多解释，如同太阳从东方升起一样明显🌞"]
     
     style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
     style B fill:#FFE66D,stroke:#D4A017,stroke-width:2px
     style C fill:#A8DADC,stroke:#457B9D,stroke-width:2px
+    style D fill:#F8CBAD,stroke:#E67E22,stroke-width:2px
     style B1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
     style B2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
     style B3 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
-    style B4 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
-    style B5 fill:#FFF0E1,stroke:#F4A261,stroke-width:1px
-    style C1 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style B4 fill:#FFF0E1,stroke:#F4A261,stroke-width:1px
+    style B41 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style B42 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style B43 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style B44 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style C1 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
     style C2 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
-    style C3 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
-    style C4 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style C3 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style D1 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style D2 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
 ```
 
 ---
@@ -926,7 +941,83 @@ graph TB
     style E2 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
 ```
 
----
+## 状语从句 (Adverbial Clauses)
+
+```mermaid
+graph TB
+    A["状语从句基础概念<br/>Adverbial Clause Basics<br/>━━━━━━━━━━━━━━━━<br/>一个句子做状语修饰说明主句<br/>A sentence functions as an adverb<br/>to modify and explain the main clause"] --> B["基本概念<br/>Basic Concepts<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> C["写法规则<br/>Writing Rules<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> D["位置安排<br/>Position Arrangement<br/>━━━━━━━━━━━━━━━━"]
+    
+    B --> B1["定义 Definition<br/>━━━━━━━━━━<br/>句子做状语表达描述性信息<br/>Sentence as adverb expressing descriptive info<br/>━━━━━━━━━━<br/>🎯 补充说明主句<br/><br/>例句示例:<br/>Things got more serious **when he became a member**<br/>当他成为成员时，情况变得更严重了"]
+    
+    B --> B2["特点 Characteristics<br/>━━━━━━━━━━<br/>最简单最常用的从句类型<br/>Simplest and most common clause type<br/>━━━━━━━━━━<br/>🔍 从属连词决定类型<br/><br/>例句示例:<br/>Happiness is the ultimate goal **because this is good**<br/>幸福是终极目标，因为这是好的"]
+    
+    B --> B3["从属连词 Subordinate Conjunction<br/>━━━━━━━━━━<br/>不做成分但表达意思<br/>Makes no component but expresses meaning<br/>━━━━━━━━━━<br/>🔗 连接主从句<br/><br/>例句示例:<br/>**Although** it was raining, we went out<br/>虽然下雨了，我们还是出去了"]
+    
+    C --> C1["写法步骤<br/>Writing Steps<br/>━━━━━━━━━━<br/>1. 先写完整陈述句<br/>Write complete declarative sentence<br/>2. 前面加从属连词<br/>Add subordinate conjunction before<br/>3. 根据意思选择连词<br/>Choose conjunction based on meaning<br/>━━━━━━━━━━<br/>📝 推倒小红旗法<br/><br/>例句演示:<br/>原句: He studies hard. He wants to succeed.<br/>合并: **He studies hard so that he can succeed**"]
+    
+    C --> C2["连词选择表<br/>Conjunction Selection<br/>━━━━━━━━━━<br/>时间: when, while, as, before, after<br/>原因: because, as, since<br/>结果: so...(形容词或副词)...that, such...(名词或名词词组)...that <br/>都表示...太...以至于...<br/>条件: if, unless<br/>让步: though, although<br/>━━━━━━━━━━<br/>🔍 看表达意思选择连词<br/>"]
+    
+    D --> D1["主句前 Before Main Clause<br/>━━━━━━━━━━<br/>推荐位置，逻辑清晰<br/>Recommended position, clear logic<br/>━━━━━━━━━━<br/>📍 逗号分隔<br/><br/>例句示例:<br/>**If you study hard**, you will pass the exam<br/>如果你努力学习，你就会通过考试"]
+    
+    D --> D2["主句后 After Main Clause<br/>━━━━━━━━━━<br/>自然流畅，常用位置<br/>Natural and fluent, common position<br/>━━━━━━━━━━<br/>📍 无需逗号<br/><br/>例句示例:<br/>We went out **although it was raining**<br/>我们出去了，虽然下雨了"]
+    
+    D --> D3["主句中 In Middle of Main Clause<br/>━━━━━━━━━━<br/>不推荐使用<br/>Not recommended<br/>━━━━━━━━━━<br/>⚠️ 影响句子流畅性<br/><br/>例句示例:<br/>The book, **which I bought yesterday**, is interesting<br/>我昨天买的那本书很有趣"]
+    
+    style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
+    style B fill:#FFE66D,stroke:#D4A017,stroke-width:2px
+    style C fill:#A8DADC,stroke:#457B9D,stroke-width:2px
+    style D fill:#B8E0D2,stroke:#52B788,stroke-width:2px
+    style B1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style B2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style B3 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style C2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style D1 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style D2 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style D3 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+```
+
+```mermaid
+graph TB
+    A["状语从句九种分类<br/>Nine Types of Adverbial Clauses<br/>━━━━━━━━━━━━━━━━<br/>从属连词表达什么意思<br/>就叫做什么状语从句<br/>The meaning expressed by the conjunction<br/>determines the type of clause"] --> B["雅思重点五种<br/>Five IELTS Focus Types<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> C["其他四种<br/>Four Other Types<br/>━━━━━━━━━━━━━━━━"]
+    
+    B --> B1["时间状语从句 Time Clause<br/>━━━━━━━━━━<br/>when, while, as, before, after<br/>since, until, as soon as<br/>━━━━━━━━━━<br/>🕒 表示时间关系<br/><br/>例句示例:<br/>**When** he arrived, we started the meeting<br/>当他到达时，我们开始了会议"]
+    
+    B --> B2["原因状语从句 Reason Clause<br/>━━━━━━━━━━<br/>because, as, since, now that<br/>━━━━━━━━━━<br/>🤔 表示因果关系<br/><br/>例句示例:<br/>**Because** it was raining, we stayed home<br/>因为下雨，我们待在家里"]
+    
+    B --> B3["结果状语从句 Result Clause<br/>━━━━━━━━━━<br/>so...that, such...that<br/>━━━━━━━━━━<br/>📊 表示结果关系<br/><br/>例句示例:<br/>He was **so** excited **that** he couldn't sleep<br/>他太兴奋了以至于睡不着<br/>**The boy kicked the ball so hard(作副词，用力地) that it nearly fell into the river.**<br/>男孩踢球太用力了，以至于球差点掉进河里<br/>**Homelessness has reached such proportions(作名词，比例) that local governments can't possibly cope.**<br/>无家可归问题已经达到了如此严重的程度，以至于地方政府根本无法应对"]
+    
+    B --> B4["条件状语从句 Condition Clause<br/>━━━━━━━━━━<br/>if<br/> unless(相当于if not，除非...),<br/> as long as(只要...)<br/>once(一旦...)<br/>on condition that<br/>━━━━━━━━━━<br/>🎯 表示条件关系<br/><br/>例句示例:<br/>**Unless** you study hard, you will fail<br/>除非你努力学习，否则你会失败"]
+    
+    B --> B5["让步状语从句 Concession Clause<br/>━━━━━━━━━━<br/>though, although, even if,even though 尽管(即使)...但是...(明让步，暗转折)<br/>while<br/>━━━━━━━━━━<br/>💪 表示转折让步<br/><br/>例句示例:<br/>**Although** it was expensive, I bought it<br/>虽然很贵，我还是买了"]
+    
+    C --> C1["目的状语从句 Purpose Clause<br/>━━━━━━━━━━<br/>so that, in order that<br/>━━━━━━━━━━<br/>🎯 因为表示目的是为了什么，什么就说明这事儿还没有成真，还没做吧？所以他后面会加上一个情态动词来表示可能性，这事还没有完全成真。所以请大家记住目的状语从句，这俩后面都会加情态动词。 <br/><br/>例句示例:<br/>He speaks loudly **so that** everyone can hear<br/>他大声说话以便每个人都能听到"]
+    
+    C --> C2["地点状语从句 Place Clause<br/>━━━━━━━━━━<br/>where, wherever<br/>━━━━━━━━━━<br/>📍 表示地点关系<br/><br/>例句示例:<br/>**Where** there is a will, there is a way<br/>有志者事竟成"]
+    
+    C --> C3["比较状语从句 Comparison Clause<br/>━━━━━━━━━━<br/>than, as...as<br/>━━━━━━━━━━<br/>⚖️ 表示比较关系<br/><br/>例句示例:<br/>Batteries can die faster **than we realized**<br/>电池耗尽比我们意识到的要快"]
+    
+    C --> C4["方式状语从句 Manner Clause<br/>━━━━━━━━━━<br/>as, the way<br/>━━━━━━━━━━<br/>🔄 表示方式方法<br/><br/>例句示例:<br/>**When in Rome, do as Romans do**<br/>入乡随俗"]
+    
+    style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
+    style B fill:#FFB6C1,stroke:#E63946,stroke-width:2px
+    style C fill:#B8E0D2,stroke:#52B788,stroke-width:2px
+    style B1 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style B2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style B3 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style B4 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style B5 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style C1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style C2 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style C3 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style C4 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+```
 
 
 
