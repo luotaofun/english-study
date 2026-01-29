@@ -576,6 +576,8 @@ graph TB
 
 ---
 
+
+
 ## 介词短语 (Prepositional Phrases)
 
 ```mermaid
@@ -872,7 +874,59 @@ graph TB
     style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
 ```
 
-## 定语从句
+## 定语从句 (Attributive Clause)
+
+```mermaid
+graph TB
+    A["定语从句完整知识体系<br/>Attributive Clause System<br/>━━━━━━━━━━━━━━━━<br/>一个句子做定语修饰限定名词<br/>A sentence functions as an adjective<br/>to modify and qualify a noun"] --> B["基本概念<br/>Basic Concepts<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> C["写法规则<br/>Writing Rules<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> D["分类<br/>Classification<br/>━━━━━━━━━━━━━━━━"]
+    
+    A --> E["特殊句型<br/>Special Patterns<br/>━━━━━━━━━━━━━━━━"]
+    
+    B --> B1["定义 Definition<br/>━━━━━━━━━━<br/>句子做定语修饰名词<br/>Sentence as adjective modifying noun<br/>━━━━━━━━━━<br/>🎯 确定名词范围<br/><br/>例句示例:<br/>I met the man **who lives next door**<br/>我认识了住在隔壁的男人"]
+    
+    B --> B2["位置 Position<br/>━━━━━━━━━━<br/>放在所修饰名词后<br/>Placed after the modified noun<br/>━━━━━━━━━━<br/>📍 就近修饰原则<br/><br/>例句示例:<br/>The book **which I bought yesterday** is interesting<br/>我昨天买的那本书很有趣"]
+    
+    B --> B3["关系词 Relative Word<br/>━━━━━━━━━━<br/>引出从句+做成分<br/>Introduces clause + makes component<br/>━━━━━━━━━━<br/>🔗 连接主从句<br/><br/>例句示例:<br/>This is the student **whose bike was stolen**<br/>这就是那个自行车被偷的学生"]
+    
+    B --> B4["先行词 Antecedent<br/>━━━━━━━━━━<br/>被修饰的名词<br/>The noun being modified<br/>━━━━━━━━━━<br/>🏷️ 关系词=先行词<br/><br/>例句示例:<br/>Australia is one of the few countries **where people drive on the left**<br/>澳大利亚是少数几个靠左行驶的国家之一"]
+    
+    C --> C1["写法步骤<br/>Writing Steps<br/>━━━━━━━━━━<br/>1. 先写陈述句<br/>Write declarative sentence first<br/>2. 前面加关系词<br/>Add relative word before<br/>3. 看先行词选择<br/>Choose based on antecedent<br/>━━━━━━━━━━<br/>📝 推倒小红旗法<br/><br/>例句演示:<br/>原句: I lost the book. I borrowed it last week.<br/>合并: I lost the book **which/that I borrowed last week**"]
+    
+    C --> C2["关系词选择表<br/>Relative Word Selection<br/>━━━━━━━━━━<br/>指事物: which/that<br/>指人: who/that/whom<br/>表所属: whose<br/>表时间: when<br/>表地点: where<br/>表原因: why<br/>━━━━━━━━━━<br/>🔍 看先行词，有逗号不能用that和省略关系词，关系词做宾语成分指人时只能用whom<br/><br/>例句对比:<br/>The man **who/that** called you is my boss<br/>The company **which/that** he works for is famous"]
+    
+    C --> C3["省略规则<br/>Omission Rules<br/>━━━━━━━━━━<br/>关系词做宾语可省略<br/>Relative word as object can be omitted<br/>━━━━━━━━━━<br/>✂️ 建议不省略<br/><br/>例句对比:<br/>完整: The book **which** I bought is good<br/>省略: The book I bought is good<br/>The man **whom** I met is friendly<br/>The man I met is friendly"]
+    
+    D --> D1["限定性<br/>Restrictive<br/>━━━━━━━━━━<br/>名词范围不明确<br/>Noun scope unclear<br/>━━━━━━━━━━<br/>无逗号/不可省略<br/>No comma / cannot omit<br/>━━━━━━━━━━<br/>往前翻译<br/>Translate forward<br/>━━━━━━━━━━<br/>🎯 必要限定<br/><br/>例句示例:<br/>I met your friend **who is staying in Paris**<br/>我遇见了你那位正在巴黎的朋友<br/>(朋友很多，需要限定是哪一位)"]
+    
+    D --> D2["非限定性，可省略<br/>Non-restrictive<br/>━━━━━━━━━━<br/>名词范围明确<br/>Noun scope clear<br/>━━━━━━━━━━<br/>有逗号时指人指物都不能用that且不可省略关系词<br/>Has comma / can omit<br/>━━━━━━━━━━<br/>补充说明<br/>Additional explanation<br/>━━━━━━━━━━<br/>💬 额外信息<br/><br/>例句示例:<br/>I met your mother, **who is very kind**<br/>我遇见了你妈妈，她很和蔼<br/>(妈妈只有一个，补充说明)"]
+    
+    E --> E1["介词提前<br/>Preposition Fronting<br/>━━━━━━━━━━<br/>in which, by whom等<br/>in which, by whom etc.<br/>━━━━━━━━━━<br/>介词提前只能用which/whom，不能用that,不能省略<br/>Cannot use that / cannot omit<br/>━━━━━━━━━━<br/>🔄 介宾团聚<br/><br/>例句对比:<br/>普通: The environment **which** we live in is polluted<br/>介词提前: The environment **in which** we live is polluted<br/>我们生活的环境被污染了"]
+    
+    E --> E2["特殊which<br/>Special which<br/>━━━━━━━━━━<br/>逗号+which修饰整句<br/>Comma + which modifies whole sentence<br/>━━━━━━━━━━<br/>📌 指代前面整件事<br/><br/>例句示例:<br/>Bilingual people enjoy better memories, **which can lead to health benefits**<br/>说双语的人记忆力更好，这能带来健康益处<br/>(which指代前面整句话的内容)"]
+    
+    style A fill:#4ECDC4,stroke:#2C7A7B,stroke-width:3px
+    style B fill:#FFE66D,stroke:#D4A017,stroke-width:2px
+    style C fill:#A8DADC,stroke:#457B9D,stroke-width:2px
+    style D fill:#B8E0D2,stroke:#52B788,stroke-width:2px
+    style E fill:#FFB6C1,stroke:#E63946,stroke-width:2px
+    style B1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style B2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style B3 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style B4 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style C1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style C2 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style C3 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+    style D1 fill:#FFE1E1,stroke:#E63946,stroke-width:1px
+    style D2 fill:#E8F5E9,stroke:#52B788,stroke-width:1px
+    style E1 fill:#FFF4E1,stroke:#D4A017,stroke-width:1px
+    style E2 fill:#E1F5FE,stroke:#457B9D,stroke-width:1px
+```
+
+---
 
 
 
